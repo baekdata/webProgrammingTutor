@@ -1,0 +1,12 @@
+@media (max-width:499px){ 
+		h3.max {color:blue}
+		
+		h1.max {color : orange}
+		h2.max {color : green}
+	}
+@media (min-width:500px){ 
+		h3.min {background : yellow; font-style : italic; color:blue}
+
+		h1.max {color : red}
+		h2.max {color : blue}
+	}
